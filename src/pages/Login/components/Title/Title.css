@@ -1,0 +1,14 @@
+.title-container{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-label{
+    margin: 2rem;
+    font-family:Arial, Helvetica, sans-serif;
+}
